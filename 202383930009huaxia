@@ -1,0 +1,67 @@
+1.Fundamental reasons behind cloud's success:
+The cloud has seen widespread adoption because of its ability to deliver scalability, flexibility, and cost savings. Here are the primary reasons for its success:
+
+On-demand resource access: The cloud allows users to access computing resources (like storage, networking, and processing power) whenever they need them, without having to manage physical infrastructure.
+
+Cost-efficiency: Cloud providers typically offer a pay-as-you-go model, reducing the need for large upfront capital investment in hardware.
+
+Scalability and flexibility: The cloud enables users to easily scale their infrastructure to accommodate business growth or reduced demand.
+
+Pros of Cloud:
+
+Cost-effective: No need for large capital expenditures on infrastructure.
+
+Scalability: Resources can be scaled up or down based on demand.
+
+Remote accessibility: Data and applications can be accessed from any device with an internet connection.
+
+Cons of Cloud:
+
+Security concerns: Storing sensitive data in the cloud could expose it to security risks.
+
+Downtime: Cloud service outages can disrupt access to applications and data.
+
+Limited control: Users may have limited control over cloud infrastructure compared to on-premise systems.
+
+2.Primary function of a hypervisor in virtualization:
+The primary function of a hypervisor is to enable the creation and management of virtual machines (VMs) on a physical machine by allocating hardware resources and ensuring that multiple virtual machines can run simultaneously without interfering with each other.
+
+3.What is a virtual machine (VM)?
+A virtual machine (VM) is a software emulation of a physical computer that runs an operating system and applications just like a physical machine. VMs are hosted on a hypervisor and share the underlying hardware resources of the physical system.
+
+4.Benefits of using virtual machines:
+
+Isolation: VMs are isolated from each other and the host system, so if one VM crashes, it doesn’t affect others.
+
+Resource optimization: VMs allow multiple operating systems to run on a single physical machine, improving hardware utilization.
+
+Portability: VMs can be easily moved or cloned to different systems without compatibility issues.
+
+Testing and development: Developers can create isolated environments for testing software without affecting the host system.
+
+5.Five use cases of virtual machines:
+
+Running multiple operating systems: A VM can run Windows on a Linux host or vice versa.
+
+Server consolidation: Virtualizing multiple servers onto a single physical machine to save costs and resources.
+
+Testing environments: Developers can test applications in isolated VMs without affecting production systems.
+
+Disaster recovery: VMs can be backed up and restored more easily, facilitating recovery from hardware failures.
+
+Cloud computing: VMs are fundamental to cloud infrastructures where resources are virtualized and dynamically allocated.
+
+6.In virtualization, what is the guest operating system?
+
+b) The operating system installed on a virtual machine.
+
+7.What does virtual machine isolation mean?
+
+c) Virtual machines run independently and are isolated from each other and the host system.
+
+8.What is the benefit of virtual machine portability?
+
+c) It allows virtual machines to be moved between different physical machines with compatible hypervisors.
+
+9.What is the purpose of cloning a virtual machine?
+Cloning a virtual machine allows you to create an exact copy of an existing VM. This is useful for quickly setting up a new instance of a system for testing, development, or deployment without having to configure everything from scratch.
